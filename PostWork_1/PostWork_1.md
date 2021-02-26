@@ -2,10 +2,10 @@
 
 ## Equipo 23
 ### Integrantes:
-#### Francisco Arredondo  
-#### Tamara Pervaz
-#### Emanuel Serrano
-#### Carlos Vidal 
+#### - Francisco Arredondo  
+#### - Tamara Pervaz
+#### - Emanuel Serrano
+#### - Carlos Vidal 
 
 ## Identificación de problemática
 
