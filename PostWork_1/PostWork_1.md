@@ -1,13 +1,15 @@
 # Posto Work 1
+
 ## Equipo 23
 ### Integrantes:
-#### El Mocho
-#### La Vision
-#### La no vision
+#### Francisco Arredondo  
+#### Tamara Pervaz
+#### Emanuel Serrano
+#### Carlos Vidal 
 
 ## Identificación de problemática
 
-1.	Violencia familiar en tiempos de COVID ¬– 19
+1.	Violencia familiar en tiempos de COVID – 19
 2.	Violencia de género en tiempos de COVID – 19
 
 ## Investigación 
@@ -30,7 +32,7 @@ Rodríguez Pedraza, Y. (2020). La feminización de la pandemia COVID19. Recupera
 
 
 ## Medidas ante las problemáticas 
-[x] Órdenes de protección 
+- Órdenes de protección 
 -	Si identifica que usted experimenta una de las características del ciclo de la      violencia, acuda al Agente del Ministerio Público y busque ayuda.
 -	Resguarde sus documentos, así como los de sus hijos, en una casa de algún         familiar.
 - Si su pareja o el agresor se pone violento, retírese inmediatamente.
