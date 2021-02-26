@@ -30,12 +30,12 @@ Rodríguez Pedraza, Y. (2020). La feminización de la pandemia COVID19. Recupera
 
 
 ## Medidas ante las problemáticas 
-  •	Órdenes de protección 
-  •	Si identifica que usted experimenta una de las características del ciclo de la      violencia, acuda al Agente del Ministerio Público y busque ayuda.
-  •	Resguarde sus documentos, así como los de sus hijos, en una casa de algún         familiar.
-  •	Si su pareja o el agresor se pone violento, retírese inmediatamente.
-  •	Acuda a buscar ayuda a las instituciones especializadas (UAVI, Unidad de Atención de Violencia Intrafamiliar, IJM Instituto Jalisciense de las Mujeres, DIF Municipales) para buscar refugio temporal
-  •	Llame al 066 para pedir ayuda la policía.
+[x] Órdenes de protección 
+-	Si identifica que usted experimenta una de las características del ciclo de la      violencia, acuda al Agente del Ministerio Público y busque ayuda.
+-	Resguarde sus documentos, así como los de sus hijos, en una casa de algún         familiar.
+- Si su pareja o el agresor se pone violento, retírese inmediatamente.
+- Acuda a buscar ayuda a las instituciones especializadas (UAVI, Unidad de Atención de Violencia Intrafamiliar, IJM Instituto Jalisciense de las Mujeres, DIF Municipales) para buscar refugio temporal
+-	Llame al 066 para pedir ayuda la policía.
   
 ##### Fuentes para medidas ante las problemáticas 
 
