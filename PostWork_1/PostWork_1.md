@@ -1,4 +1,4 @@
-# Posto Work 1
+# Post Work 1
 
 ## Equipo 23
 ### Integrantes:
