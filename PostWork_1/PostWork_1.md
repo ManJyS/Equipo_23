@@ -2,10 +2,10 @@
 
 ## Equipo 23
 ### Integrantes:
-##### - Francisco Ricardo Arredondo Almuina - frankk_arredondo@hotmail.com
-##### - Tamara Ytanyu Pérez Vázquez - tamara.ytanyu@gmail.com
-##### - Jesus Emanuel Serrano Molina - emanuel.serm@gmail.com
-##### - Carlos Eduardo Vidal Villeda - charlie.lalo@hotmail.com
+- Francisco Ricardo Arredondo Almuina - frankk_arredondo@hotmail.com
+- Tamara Ytanyu Pérez Vázquez - tamara.ytanyu@gmail.com
+- Jesus Emanuel Serrano Molina - emanuel.serm@gmail.com
+- Carlos Eduardo Vidal Villeda - charlie.lalo@hotmail.com
 
 ## Identificación de problemática
 
