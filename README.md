@@ -7,7 +7,7 @@
 
 #### [3. PostWork 3: Colección de Datos](https://github.com/ManJyS/PostWorks_Eq_23/blob/main/PostWork_3/Postwork_3.ipynb)
 
-#### [4. PostWork 4: Análisis Exploratorio de nuestro Dataset]
+#### [4. PostWork 4: Análisis Exploratorio de nuestro Dataset](https://github.com/ManJyS/PostWorks_Eq_23/blob/main/PostWork_4/PostWork_4.ipynb)
 
 #### [5. PostWork 5]
 
