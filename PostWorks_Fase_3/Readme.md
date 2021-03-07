@@ -5,7 +5,7 @@
 
 #### [2. PostWork 2: Planteamiento de Preguntas](https://github.com/ManJyS/Equipo_23/blob/main/PostWorks_Fase_3/PostWork_2/PostWork_2.md)
 
-#### [3. PostWork 3: Colección de Datos]()
+#### [3. PostWork 3: Colección de Datos](https://github.com/ManJyS/Equipo_23/blob/main/PostWorks_Fase_3/PostWork_3/Postwork_3.ipynb)
 
 #### [4. PostWork 4: Análisis Exploratorio de nuestro Dataset]()
 
