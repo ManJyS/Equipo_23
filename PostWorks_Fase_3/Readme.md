@@ -11,8 +11,8 @@
 
 #### [5. PostWork 5: Limpieza de datos y agregaciones](https://github.com/ManJyS/Equipo_23/blob/main/PostWorks_Fase_3/PostWork_5/Postwork_5.ipynb)
 
-#### [6. PostWork 6](https://github.com/ManJyS/Equipo_23/blob/main/PostWorks_Fase_3/PostWork_6/PostWork_6.md)
+#### [6. PostWork 6: Automatización y APIs](https://github.com/ManJyS/Equipo_23/blob/main/PostWorks_Fase_3/PostWork_6/PostWork_6.md)
 
-#### [7. PostWork 7](https://github.com/ManJyS/Equipo_23/blob/main/PostWorks_Fase_3/PostWork_7/Postwork_7.ipynb)
+#### [7. PostWork 7: Transformación, filtración y ordenamiento de datos](https://github.com/ManJyS/Equipo_23/blob/main/PostWorks_Fase_3/PostWork_7/Postwork_7.ipynb)
 
-#### [8. PostWork 8](https://github.com/ManJyS/Equipo_23/blob/main/PostWorks_Fase_3/PostWork_8/Readme.md)
+#### [8. PostWork 8: Proyecto Final](https://github.com/ManJyS/Equipo_23/blob/main/PostWorks_Fase_3/PostWork_8/Readme.md)
