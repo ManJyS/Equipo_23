@@ -1,7 +1,7 @@
-#**Postwork Sesión 6: APIS, Automatización y Concatenación de Dataframes**
+# **Postwork Sesión 6: APIS, Automatización y Concatenación de Dataframes**
 
 
-###Equipo 23
+### Equipo 23
 
 * Francisco Ricardo Arredondo Almuina - frankk_arredondo@hotmail.com
 * Carlos Eduardo Vidal Villeda - charlie.lalo@hotmail.com
